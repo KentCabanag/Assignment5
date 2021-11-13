@@ -1,4 +1,4 @@
-# program: grading
+# program: grading system
 # grade/mark    percentage     description
 # 1.0           97-100          Excellent
 # 1.25          94-96           Excellent
@@ -59,4 +59,4 @@ elif grade >=65 and grade <=74:
     print("Description: Failure")
 
 else:
-    print("Your grade is either Inc. means Incomplete, W means Withdrawn, or D means Dropped")
+    print("Your grade is either Inc. means Incomplete, W means Withdrawn, or D means Dropped.")
