@@ -1,11 +1,3 @@
-#Program 2: Find the lowest number
-#Create a program that ask 3 numbers. 
-#Find the lowest number using only if-else statement.
-#Display the lowest number
-
-from typing import is_typeddict
-
-
 print("\n\033[33;3m Finding the Lowest Number\033[0m")
 print()
 def Lowest_number():
